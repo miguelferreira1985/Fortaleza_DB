@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Fortaleza_DB">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="FERREIRAPC\SQL:FERREIRAPC\migue">
+          <Created>2019-08-26T17:48:05.6325517-05:00</Created>
+          <Type>SQL</Type>
+          <Server>FERREIRAPC\SQL</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateTableCategories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FERREIRAPC\SQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FERREIRAPC\SQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableCategories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTablePresentation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FERREIRAPC\SQL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FERREIRAPC\SQL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTablePresentation.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
